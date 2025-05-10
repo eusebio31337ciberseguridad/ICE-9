@@ -1,9 +1,6 @@
 # ICE-9
-<h1>Informe Final de Investigación</h1>
-
-<h2>Tema</h2>
-<p><strong>La inteligencia artificial de los virus informáticos: Autómatas binarios autorreproductivos</strong></p>
-
+<h2>Informe Final de Investigación: Tema:</h2>
+<h1>La inteligencia artificial de los virus informáticos: Autómatas binarios autorreproductivos</h1>
 <hr>
 
 <h2>Descargo de responsabilidad</h2>
