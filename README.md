@@ -30,3 +30,4 @@
 <p>
   A lo largo del documento se presentan experimentos, reflexiones y avances relacionados con el desarrollo de estos sistemas, siempre bajo una perspectiva ética y académica.
 </p>
+![](https://github.com/eusebio31337ciberseguridad/ICE-9/blob/main/VIRUS_GIG(2).gif)
